@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-If you are interested, please feel free to download my [cv](../files/CV_Jiyue.pdf)。
+If you are interested, please feel free to download my [cv](../files/CV_Jiyue.pdf).
