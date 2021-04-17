@@ -20,9 +20,9 @@ Education
 
 **City University of Hong Kong (Electronic Engineering Department)**
 
-*<small>2016.08 - 2017.01. M.S. EXCHANGE STUDENT IN ELECTRONIC INFORMATION ENGINEERING</small>*
+*<small>2016.08 - 2017.01. EXCHANGE STUDENT IN ELECTRONIC INFORMATION ENGINEERING</small>*
 
 **Tianjin University (School of Electronic Information Engineering)**
 
-*<small>2016.08 - 2017.01. M.S. B.E. IN ELECTRONIC INFORMATION ENGINEERINGG</small>*
+*<small>2016.08 - 2017.01. B.E. IN ELECTRONIC INFORMATION ENGINEERINGG</small>*
 
