@@ -24,5 +24,5 @@ Education
 
 **Tianjin University (School of Electronic Information Engineering)**
 
-*<small>2016.08 - 2017.01. B.E. IN ELECTRONIC INFORMATION ENGINEERINGG</small>*
+*<small>2013.09 - 2017.07. B.E. IN ELECTRONIC INFORMATION ENGINEERINGG</small>*
 
