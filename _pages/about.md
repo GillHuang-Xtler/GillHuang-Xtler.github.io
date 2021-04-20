@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "*Adventure is out here*"
+title: "*About*"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,21 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Jiyue (Gill) Huang visited City University of Hong Kong as an exchange student in 2016, and received her BS degree in electronic information engineering from Tianjin University, China, in 2017. She received her master degree in computer science at Peking University, China. She is now working towards her doctor degree in the Distributed System group at TU Delft. Her research is mainly focused in the area of federated learning incentives and attacks.
+I visited [City University of Hong Kong](https://www.cityu.edu.hk/) as an exchange student in 2016, and received my BS degree in electronic information engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, in 2017. I received her master degree in computer science at [Peking University](http://english.pku.edu.cn/), China. I am now working towards my doctor degree in the Distributed System group at [TU Delft](https://www.tudelft.nl/). My research is mainly focused in the area of federated learning incentives and attacks.
 
-Education
-======
-
-**Peking University (School of Electronics and Computer Engineering)**
-
-*<small>2017.09 - 2020.07. M.S. IN COMPUTER APPLICATION TECHNOLOGY</small>*
-
-
-**City University of Hong Kong (Electronic Engineering Department)**
-
-*<small>2016.08 - 2017.01. EXCHANGE STUDENT IN ELECTRONIC INFORMATION ENGINEERING</small>*
-
-**Tianjin University (School of Electronic Information Engineering)**
-
-*<small>2013.09 - 2017.07. B.E. IN ELECTRONIC INFORMATION ENGINEERINGG</small>*
 
