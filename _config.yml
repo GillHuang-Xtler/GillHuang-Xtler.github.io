@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiyue Huang"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Jiyue Huang"
 description              : &description "PhD. student at TU Delft"
