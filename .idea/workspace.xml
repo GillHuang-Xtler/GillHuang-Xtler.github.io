@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae1c2cc-714a-496d-94e3-396a6b552e8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_teaching/2022-ta.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2022-ta.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_talks/2022-03-02-talk-aaai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2020-12-01-talk-tps.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2013-03-01-tutorial-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2023-06-29-talk-dsn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2023-05-28-talk-pakdd.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-03-01-talk-3.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +50,7 @@
       <updated>1692651067326</updated>
       <workItem from="1692651069847" duration="12173000" />
       <workItem from="1692793063259" duration="8170000" />
-      <workItem from="1692913363757" duration="1247000" />
+      <workItem from="1692913363757" duration="2636000" />
     </task>
     <servers />
   </component>
