@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ae1c2cc-714a-496d-94e3-396a6b552e8b" name="Default Changelist" comment="" />
+    <list default="true" id="6ae1c2cc-714a-496d-94e3-396a6b552e8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_teaching/2021-master.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2014-spring-teaching-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2022-bachelor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2015-spring-teaching-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2022-ta.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692651067326</updated>
       <workItem from="1692651069847" duration="12173000" />
-      <workItem from="1692793063259" duration="3248000" />
+      <workItem from="1692793063259" duration="8170000" />
     </task>
     <servers />
   </component>
