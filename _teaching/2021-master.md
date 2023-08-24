@@ -8,4 +8,4 @@ date: 2021-09-01
 location: "Delft, Netherlands"
 ---
 
-Co-supervising master student Jin Xu for thesis for 6 months, including 
+Co-supervising master student Jin Xu for thesis for 6 months, including topic chosen, research question formalization, possible solution and paper writing. This gradient inversion attack of Federated Learning is published on SRDS 2022.
