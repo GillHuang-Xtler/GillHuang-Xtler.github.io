@@ -17,6 +17,7 @@
   </component>
   <component name="JupyterTrust" id="ce5cf428-4c08-4628-b2b3-2bc67cb8f516" />
   <component name="ProjectId" id="2UJI4qg4ZjOY69Rr4Hx7tJAy9Iu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,6 +47,7 @@
       <updated>1692651067326</updated>
       <workItem from="1692651069847" duration="12173000" />
       <workItem from="1692793063259" duration="8170000" />
+      <workItem from="1692913363757" duration="288000" />
     </task>
     <servers />
   </component>
