@@ -8,4 +8,4 @@ date: 2023-05-28
 location: "Osaka, Japan"
 ---
 
-Followed by the research of the specific heterogeneous client, Maverick, this talk analysis its contribution and propose a distance-based client selection method with convergence guarantee.
+Followed by the research of the specific heterogeneous client, Maverick, this talk analyzes its contribution and propose a distance-based client selection method with convergence guarantee.
