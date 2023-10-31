@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae1c2cc-714a-496d-94e3-396a6b552e8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_teaching/2017-bachelor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_teaching/2018-ta.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_teaching/2023-bachelor.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_teaching/2022-ta.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2022-ta.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Jiyue_CV_TUD.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,9 @@
       <workItem from="1694610822882" duration="2084000" />
       <workItem from="1695199057477" duration="2000" />
       <workItem from="1698746136646" duration="3679000" />
-      <workItem from="1698752575411" duration="911000" />
+      <workItem from="1698752575411" duration="1295000" />
+      <workItem from="1698781851754" duration="563000" />
+      <workItem from="1698783704425" duration="378000" />
     </task>
     <servers />
   </component>
