@@ -8,4 +8,4 @@ date: 2023-11-01
 location: "Delft, Netherlands"
 ---
 
-Ongoing supervising 4 bachelor students (Todor Mladenović, Quinten Van Opstal, Jan van der Meulen, and Lazar Nenovski) for 3 months, on the course of Malicious Parties and Defenses in Multi-Server Federated Learning	.
+Supervised 4 bachelor students (Todor Mladenović, Quinten Van Opstal, Jan van der Meulen, and Lazar Nenovski) for 3 months, on the course of Malicious Parties and Defenses in Multi-Server Federated Learning with four good thesis projects.
