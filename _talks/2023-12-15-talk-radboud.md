@@ -1,5 +1,5 @@
 ---
-title: "Invited lunch talk"
+title: "Talk on Hindrance of Trustworthy Distributed Machine Learning"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-12-15-talk-radboud
