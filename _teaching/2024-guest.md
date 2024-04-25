@@ -1,3 +1,4 @@
+---
 title: "Guest lecturer of 62122 distributed deep learning systems"
 collection: teaching
 type: "Master course"
