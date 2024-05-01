@@ -2,7 +2,7 @@
 title: "Guest lecturer of 62122 distributed deep learning systems"
 collection: teaching
 type: "Master course"
-permalink: /teaching/2024-guest
+permalink: /teaching/2024-NEguest
 venue: "Univerisity of Neuchatel"
 date: 2024-04-22
 location: "Online, Switzerland"
