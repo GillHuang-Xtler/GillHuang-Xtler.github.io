@@ -4,8 +4,8 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/2024-TUDguest
 venue: "Delft University of Technology"
-date: 2024-06-11
+date: 2024-06-12
 location: "Delft, Netherlands"
 ---
 
-Planed: guest lecture related to privacy-preserving or secure AI
+Guest lecture related to privacy-preserving or secure AI: attacks during both training and inference time.
